@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "qZI9Ui0D9yEKmomY1LX3ENTTwXavNot/Bjf2Sct7lLk=",
+  "Source": "courier-scam-finder-back-end",
+  "BasePath": "_content/courier-scam-finder-back-end",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

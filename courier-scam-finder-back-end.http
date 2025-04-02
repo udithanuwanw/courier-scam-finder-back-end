@@ -1,0 +1,6 @@
+@courier_scam_finder_back_end_HostAddress = http://localhost:5198
+
+GET {{courier_scam_finder_back_end_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

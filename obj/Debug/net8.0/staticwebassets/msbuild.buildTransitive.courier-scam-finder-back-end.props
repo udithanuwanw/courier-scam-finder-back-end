@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\courier-scam-finder-back-end.props" />
+</Project>
