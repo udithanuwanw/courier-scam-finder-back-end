@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: dotnet-backend-service
+spec:
+  type: ClusterIP
+  selector:
+    name: dotnet-backend
+  ports:
+    - port: 5000
+      targetPort: 8080

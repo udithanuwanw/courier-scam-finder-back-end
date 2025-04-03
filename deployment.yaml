@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: dotnet-backend
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      name: dotnet-backend
+  template:
+    metadata:
+      name: dotnet-backend
+      labels:
+        name: dotnet-backend
+    spec:
+      containers:
+      - name: mycontainer
+        image: udithanuwan/aspnet-backend:latest   # replace with your Docker-image pushed on Dockerhub
+        ports:
+        - containerPort: 8080
