@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("courier-scam-finder-back-end")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e798290dabd0ffd3feafe0be4b9e2a5fb9aa6149")]
 [assembly: System.Reflection.AssemblyProductAttribute("courier-scam-finder-back-end")]
 [assembly: System.Reflection.AssemblyTitleAttribute("courier-scam-finder-back-end")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
